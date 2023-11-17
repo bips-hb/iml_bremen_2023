@@ -17,8 +17,8 @@ General Information:
 - Exercise Sheets **do not** need to be handed in
 - The solutions will be discussed in the Exercise Sessions and uploaded after
 - It is highly recommended to solve the Exercises yourself
-- Depending on the number of course participants for passing the course it is **required** to present the Solutions to **at least one** Exercise Sheet during the Exercise Sessions (details will be announced during the Sessions)
-- Who will present in the next week is determined the week prior, either on voluntary basis or by assignment of the Teaching Assistants
+- It is **required** to present the Solutions to **at least one** Exercise Sheet during the Exercise Sessions in groups of 2(details will be announced during the Sessions)
+- Who will present is determined by an enrollment tool on Stud.IP
 
 For any questions about the lecture, please refer to the lecturer, for any questions about the exercises please refer to the TAs. 
 
